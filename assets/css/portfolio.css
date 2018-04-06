@@ -1,0 +1,135 @@
+/**
+ * This is the code for section 2 (projects)
+ */
+
+.project-division {
+    padding: 0.3em 0;
+    background-position: 100%;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+#project-container {
+    background-color: #e7e7e7;
+    background-position: 100%;
+    height: 50vh;
+    position: relative;
+}
+
+#project-container2 {
+    background-color: #e7e7e7;
+    background-position: 100%;
+    height: 42vh;
+    position: relative;
+}
+
+.intro__project {
+    color: rgb(0, 0, 0);
+    font-family: Oswald, sans-serif;
+    font-size: 3em;
+    font-weight: 900;
+    line-height: 1.2em;
+    margin: .2em 0;
+    margin-left: 100px;
+    text-shadow: 0 2px 1px rgba(0, 0, 0, .3);
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+#card-1 {
+    background-image: url("/Users/jesusgonzalez/Desktop/personalPage/images/cardExample2.png");
+    background-size: cover;
+    background-position: center;
+    width: 275px;
+    height: 360px;
+    border-radius: 15px;
+    position: relative;
+    transition: all 2.0s ease;
+    transform-style: preserve-3d;
+    animation: pulse 1.5s infinite alternate;
+    float: left;
+    left: 80px;
+    margin-left: 20px;
+    top: 11px;
+}
+
+#card-2 {
+    background-image: url("/Users/jesusgonzalez/Desktop/personalPage/images/cardExample3.png");
+    background-size: cover;
+    background-position: center;
+    width: 275px;
+    height: 360px;
+    border-radius: 15px;
+    position: relative;
+    transition: all 2.0s ease;
+    transform-style: preserve-3d;
+    animation: pulse 1.5s infinite alternate;
+    float: left;
+    left: 80px;
+    margin-left: 20px;
+    top: 11px;
+}
+
+#card-3 {
+    background-image: url("/Users/jesusgonzalez/Desktop/personalPage/images/cardExample4.png");
+    background-size: cover;
+    background-position: center;
+    width: 275px;
+    height: 360px;
+    border-radius: 15px;
+    position: relative;
+    transition: all 2.0s ease;
+    transform-style: preserve-3d;
+    animation: pulse 1.5s infinite alternate;
+    float: left;
+    left: 80px;
+    margin-left: 20px;
+    top: 11px;
+}
+
+#card-4 {
+    background-image: url("/Users/jesusgonzalez/Desktop/personalPage/images/cardExample5.png");
+    background-size: cover;
+    background-position: center;
+    width: 275px;
+    height: 360px;
+    border-radius: 15px;
+    position: relative;
+    transition: all 2.0s ease;
+    transform-style: preserve-3d;
+    animation: pulse 1.5s infinite alternate;
+    float: left;
+    left: 80px;
+    margin-left: 20px;
+    top: 11px;
+}
+
+#card-5 {
+    background-image: url("/Users/jesusgonzalez/Desktop/personalPage/images/cardExample6.png");
+    background-size: cover;
+    background-position: center;
+    width: 275px;
+    height: 360px;
+    border-radius: 15px;
+    position: relative;
+    transition: all 2.0s ease;
+    transform-style: preserve-3d;
+    animation: pulse 1.5s infinite alternate;
+    float: left;
+    left: 80px;
+    margin-left: 20px;
+    top: 11px;
+}
+
+.btn-card {
+    background: rgb(0, 0, 0);
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .2);
+    color: #faf5f5;
+    font-weight: 600;
+    padding: 1em;
+    float: left;
+    position: relative;
+    top: 304px;
+    left: 94px;
+}
